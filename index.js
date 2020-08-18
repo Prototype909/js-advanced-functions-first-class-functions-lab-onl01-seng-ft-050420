@@ -14,4 +14,3 @@ function createFareMultiplier(multiplier) {
     return fare * multiplier;
   }
 };
-
